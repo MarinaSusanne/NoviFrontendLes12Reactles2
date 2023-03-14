@@ -6,7 +6,7 @@ function Product({label, img, altTex, nameBag, price }) {
          <span>{label}</span>
             <img src={img} alt={altTex}/>
             <p>{nameBag}</p>
-            <h4>{price}</h4>
+            <h4>€{price}</h4>
         </article>
     );
 }
