@@ -57,3 +57,4 @@ Begin met het maken van wijzigingen in `src/App.js`: elke keer als je een bestan
 # NoviFrontendLes12PursesAndHandbags
 # NoviFrontendLes12Reactles2
 # NoviFrontendLes12Reactles2
+# NoviFrontendLes12Reactles2
