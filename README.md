@@ -54,3 +54,4 @@ Begin met het maken van wijzigingen in `src/App.js`: elke keer als je een bestan
    een tekst-tegel. Houd er rekening mee dat je van tevoren ook niet weet hoeveel losse paragrafen er in een `Tile` komen te staan.
 # NoviFrontendLes12PursesAndHandbags
 # NoviFrontendLes12PursesAndHandbags
+# NoviFrontendLes12PursesAndHandbags
